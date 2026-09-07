@@ -7,6 +7,7 @@ const (
 	RateLimiter Project = "rate-limiter"
 	URLShorten  Project = "url-shorten"
 	IPGeo       Project = "ip-geolocation"
+	EmailJob    Project = "email-job"
 )
 
 type EmailDataEntity struct {
