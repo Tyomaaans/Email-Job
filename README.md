@@ -1,6 +1,6 @@
 # Email-Job API
 
-A production-ready REST API for transactional email delivery built with Go. Designed for reliable email dispatching with smart daily rate-limit enforcement — featuring contact form submissions, live demo request workflows, RabbitMQ-based retry queuing, and Redis-backed daily counters with automatic midnight reset.
+A production-ready REST API for transactional email delivery built with Go, successfully deployed as a real-world backend for a personal web profile. All API requests, data structures, and email workflows are aligned with the actual forms and requirements of the website, featuring RabbitMQ-based retries and Redis-backed daily rate limiting with automatic midnight reset.
 
 ---
 
